@@ -1,6 +1,6 @@
 # timepixcam
 
-This program was specifically made for processing data from Timepix3Cam for Fluorescence Lifetime Imaging (FLIM).
+This C code was created for processing data from Timepix3Cam for Fluorescence Lifetime Imaging (FLIM).
 It can also calculate centroid positions photon events.
 
 Reads ASCII files with columns of photon event data, and organises the data into an xyt cube.
